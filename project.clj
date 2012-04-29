@@ -1,4 +1,4 @@
-(defproject net.djpowell/b64 "0.1.0"
+(defproject net.djpowell/b64 "0.1.1-SNAPSHOT"
   :description "Provides a data-reader and print-method support for base64-encoded byte-arrays"
   :url "http://github.com/djpowell/b64"
   :license {:name "Eclipse Public License - v 1.0"
